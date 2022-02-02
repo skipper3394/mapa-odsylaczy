@@ -1,0 +1,8 @@
+html{
+    background-color: hsl(190, 100%, 50%);
+}
+body{
+    width: 1200px;
+    background-color: hsl(160, 63%, 48%);
+    margin: 0 auto;
+}
